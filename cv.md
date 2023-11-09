@@ -14,3 +14,29 @@ Hello, my name is Aliaksei and i decided change my profession and learn front en
 ## Skills
 
 HTML, CSS, JavaScript, SCSS, Github, VSCode, Chrome, Windows, Figma
+
+## Code example
+
+```
+function plusMoney(money) {
+  return money.reduce(function (acc, val) {
+    if (val > 0) {
+      acc += val;
+    }
+    return acc;
+  });
+}
+```
+
+## Experience
+
+Rs-school stage 0
+
+## Education
+
+Belarus State Technological University
+Rs-school stage 0
+
+## Foreign language
+
+English A2-B1
